@@ -1,0 +1,51 @@
+* { margin: 0; padding: 0; box-sizing: border-box;} 
+body { background-color: #f5f5f5; color: #000; font-size:15px; font-family: Verdana, Geneva, Tahoma, sans-serif; } 
+h1 { font-size: 26px; color: #f5f5f5; } 
+.clear { clear: both; } 
+h2 { font-size:35px; margin-bottom:15px; }
+h3 { font-size:20px; margin-bottom: 15px; } 
+h4 { font-weight: normal; font-size: 13px; margin-bottom:15px; line-height: 20px; } 
+h4 a { color:#f6a800; text-decoration: none; } 
+p { margin-bottom: 20px; } 
+hr { color:#f6a800; margin-bottom:20px; }
+h5 { font-weight:normal; font-size:14px; margin-bottom:15px;}
+
+.header-top-bar { background-color: #000000; } 
+.top-bar-lft-sec { margin:15px; float: left; } 
+.logo { padding: 12px; } 
+.top-bar-rty-sec { margin: 34px; float: right; } 
+.top-bar-js-intrv-ser { padding:20px; } 
+.top-bar-js-intrv-ser a { color: #f5f5f5; text-decoration: none; } 
+.top-bar-js-intrv-ser a:hover { color: #f1c159; } 
+.top-bar-js-intrv-ser a:active { color: #f1c159; text-decoration: underline; } 
+.react-panel { padding:20px; } 
+.react-panel a { color: #f5f5f5; text-decoration: none; } 
+.react-panel a:hover { color: #f1c159; } 
+.react-panel a:active { color: #f1c159; text-decoration: underline; } 
+.form-search { display: inline-block; } 
+.yt-icon { color: #f5f5f5; padding: 10px; } 
+.nav { background-color: rgb(233, 233, 233); padding:12px; text-align: center; } 
+.nav a { color: #f6a800; padding:5px; text-decoration: none; font-size: 18px; } 
+
+.main-container { margin: 0px 300px;} 
+.section-post { background-color: #ffffff; width:320px; padding:30px; float:left; margin: 30px 15px; } 
+.section-post p { line-height: 25px; } 
+.left-penal { float:left;}
+.right-penal { float:right;}
+
+
+.widget{
+    margin-bottom: 50px;
+}
+.widget-search input{
+    border: 1px solid #f6a800; width: 240px; height: 50px; font-size:15px; padding: 0 15px;
+}
+.aside-penal { width:320px; padding:30px; float:right;} 
+.aside-penal a { text-decoration: none; color: black; line-height: 22px; } 
+.aside-penal a:hover { text-decoration: none; color: #f6a800; }
+
+
+.pagination { font-size: 15px; padding: 20px; margin-left: 300px; word-spacing: 12px; } 
+.pagination a { text-decoration: none; color: #000; } 
+.pagination a:hover { color: #f6a800; } 
+.pagination-current { background-color: #f6a800; color: #ffffff; padding: 8px 9px; } 
